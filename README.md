@@ -1,2 +1,2 @@
 # pands2022
-Course material for the programming and Scripting course 
+Course material for the programming and Scripting module
