@@ -2,5 +2,5 @@
 # in my lecture
 # Author: Andrew Beatty
 
-name = "Andrew's Code " + str(1)
+name = 'Andrew\'s father'
 print (name)
