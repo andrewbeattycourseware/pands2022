@@ -2,23 +2,16 @@
 # Author: Andrew Beatty
 
 car = {
-    "make": "ford",
-    "price": 123,
+    "make" : "ford",
+    "model" : "modeo",
+    "year"  : 2006,
     "owner" : {
-        "firstName":"fred",
-        "age":12
+        "name" : "andrew",
+        "driver-number": 1123
     }
 }
 
 
-
-print(type(car))
-print (car)
-
-car["model"] = "focus"
-print(car)
-#make = car["make"]
-#notMake = car.get("a;lshdg;lh")
-#print (type(notMake))
-#print (make)
-print(car["owner"]["age"])
+print(car["year"])
+print(car["owner"]["name"])
+print (type(car["owner"].get("names")))
