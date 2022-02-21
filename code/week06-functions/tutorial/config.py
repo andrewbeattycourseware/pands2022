@@ -1,0 +1,3 @@
+gmail = {
+    'password' : "adhsfgfl"
+}
